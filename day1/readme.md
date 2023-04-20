@@ -1,7 +1,7 @@
 What is devops?
     The devops culture is implemented in several phases with the help of several tools:
 
-# Phases in Devsops with tools:
+# Phases in Devops with tools:
     1) Dev
         a) Plan:
             Developer need to write down the plan which they are going to develop a product
@@ -46,8 +46,9 @@ What is devops?
             ArgoCD
             GitLab
 
-Roles of Devops Manager:
+# Roles of Devops Manager:
     Managing the Devs cycle and operation cycle to make the product success.
-Video URl:
- https://www.youtube.com/watch?v=7l_n97Mt0ko
- https://www.youtube.com/watch?v=Xrgk023l4lI
+# Video URl:
+    https://www.youtube.com/watch?v=7l_n97Mt0ko
+
+    https://www.youtube.com/watch?v=Xrgk023l4lI
